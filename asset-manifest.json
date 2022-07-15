@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jessicayoon/static/css/main.073c9b0a.css",
+    "main.js": "/jessicayoon/static/js/main.3d69bca2.js",
+    "static/js/787.46a45dbd.chunk.js": "/jessicayoon/static/js/787.46a45dbd.chunk.js",
+    "static/media/logo.svg": "/jessicayoon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jessicayoon/index.html",
+    "main.073c9b0a.css.map": "/jessicayoon/static/css/main.073c9b0a.css.map",
+    "main.3d69bca2.js.map": "/jessicayoon/static/js/main.3d69bca2.js.map",
+    "787.46a45dbd.chunk.js.map": "/jessicayoon/static/js/787.46a45dbd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3d69bca2.js"
+  ]
+}
